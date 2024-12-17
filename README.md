@@ -1,5 +1,7 @@
 # Cobwebs
 
+<img src="screenshot.png" />
+
 Cobwebs is a Visual Studio Code extension that visualizes the age of each line in your code through opacity. Newer lines appear darker, while older lines become more transparent, giving you an instant visual understanding of your code's history.
 
 ## Features
